@@ -1,4 +1,6 @@
 ## Application Details
+* adding new line *
+* adding second line *
 |               |
 | ------------- |
 |**Generation Date and Time**<br>Mon Oct 28 2024 11:40:20 GMT+0000 (Coordinated Universal Time)|
